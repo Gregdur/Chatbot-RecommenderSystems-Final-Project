@@ -1,0 +1,15 @@
+{
+    "FB": {
+        "pageAccessToken": "put your generated FB page token here",
+        "verifyToken": "choose the token you want here"
+
+    },
+    "Spotify": {
+        "clientId": "put your spotify for developper clientID here",
+        "clientSecret": "put your spotify for developper clientSecret here"
+
+    },
+    "lien": "put the secure URL from ngrok here"
+
+
+}
