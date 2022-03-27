@@ -7,3 +7,5 @@ The chatbot use the Spotify for Developper web API and can converse with you abo
 * backend with NodeJs & Javascript
 * API on Spotify for web developper and the NodeJs module spotify-web-api-node
 * all linked together with ngrok secured url
+
+Please Read our report to see all the patterns that can be used to test our chatbot
